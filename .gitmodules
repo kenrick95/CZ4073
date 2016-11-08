@@ -1,0 +1,19 @@
+[submodule "As1"]
+	path = As1
+	url = git://github.com/kenrick95/CZ4073-As1.git
+
+[submodule "As2"]
+	path = As2
+	url = git://github.com/kenrick95/CZ4073-As2.git
+
+[submodule "As3"]
+	path = As3
+	url = git://github.com/kenrick95/CZ4073-As3.git
+
+[submodule "T1"]
+	path = T1
+	url = git://github.com/kenrick95/CZ4073-T1.git
+
+[submodule "T2"]
+	path = T2
+	url = git://github.com/kenrick95/CZ4073-T2.git
